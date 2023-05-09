@@ -58,3 +58,5 @@ int main()
     napisy();
     return 0;
 }
+
+//zmiana
