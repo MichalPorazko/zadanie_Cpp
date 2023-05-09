@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1683368296 source:c:\users\jpora\onedrive\pulpit\micha³\studia\iea\programowanie c++\lab\Æw. 8\zadanie 3\faktyczne\zadanie3lab8\arrayutils.cpp
+	"arrayUtils.h"
+	<iostream>
+	<string.h>
+
+1683367971 c:\users\jpora\onedrive\pulpit\micha³\studia\iea\programowanie c++\lab\Æw. 8\zadanie 3\faktyczne\zadanie3lab8\arrayutils.h
+
+1683368899 source:c:\users\jpora\onedrive\pulpit\micha³\studia\iea\programowanie c++\lab\Æw. 8\zadanie 3\faktyczne\zadanie3lab8\main.cpp
+	<iostream>
+	"string.h"
+	"arrayUtils.h"
+
